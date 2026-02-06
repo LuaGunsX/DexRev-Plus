@@ -5,8 +5,7 @@
 # Roadmap
 - [ ] Fix Elysian not being able to SaveInstance in the right click menu even though a saveinstance function exists
 - [ ] Ability to "swap" API dumps for older and newer versions
-- [ ] More options in right-click menu
-- [ ] Goto (for parts)
+- [ ] "Goto" in right-click menu (for parts)
 - [ ] "Save to File" in Script Editor
 - [ ] Intro
 - [ ] Syntax highlighting in Script Editor if possible
