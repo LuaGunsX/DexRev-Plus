@@ -7,6 +7,7 @@
 - [ ] Ability to "swap" API dumps for older and newer versions
 - [ ] "Goto" in right-click menu (for parts)
 - [ ] "Save to File" in Script Editor
+- [ ] Sound Player
 - [ ] Intro
 - [ ] Syntax highlighting in Script Editor if possible
 - [x] Binary SaveInstance (already featured in Elysian)
