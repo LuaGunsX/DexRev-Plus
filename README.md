@@ -9,5 +9,6 @@
 - [ ] "Save to File" in Script Editor
 - [ ] Sound Player
 - [ ] Intro
+- [ ] Dark mode
 - [ ] Syntax highlighting in Script Editor if possible
 - [x] Binary SaveInstance (already featured in Elysian)
